@@ -4,7 +4,7 @@ Teste - DW minio, trino, iceberg
 
 ### Start
 ```bash
-docker compsoe up -d
+docker compose up -d
 ```
 
 ### Access trino container
